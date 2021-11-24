@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Keyboard Samples</string>
+    <string name="button">show</string>
+    <string name="editText">Enter phone number</string>
+    <string name="title_text">Phone Number:</string>
+    <string name="desc_text">Nothing entered.</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
